@@ -1,0 +1,3 @@
+# Ignore terraform/.terraform/ directory
+terraform/.terraform/
+test/
